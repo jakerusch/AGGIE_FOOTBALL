@@ -3,7 +3,7 @@ var ajax = require('ajax');
 var Vector2 = require('vector2');
 
 // my personal API Key and url string for Aggie Football through import.io
-var myUrl = 'https://extraction.import.io/query/extractor/6bc9ea07-05ef-43a9-971c-fbcdc5fbf2b0?_apikey=9b5659de27454bcca2744d175970e9600a2b356ebf5da27181cf5c9dbfdb87d78a97df3428fb886292c3d248e7aaa16220b82305208d11e450ecb657fd84940fd047affab65aca40f493cca0d6578241&url=http://www.12thman.com/schedule.aspx?schedule=187&path=football';
+var myUrl = '';
 
 // create main loading window
 var splashWindow = new UI.Window({
