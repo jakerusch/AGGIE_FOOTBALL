@@ -1,0 +1,61 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "jacob.rusch@gmail.com",
+    "longName": "BREWERY_FINDER",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/tamu_16.png",
+                "name": "IMAGES_TAMU_16_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TAMU_LOGO_16.PNG",
+                "name": "IMAGES_TAMU_LOGO_16_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TAMU_LOGO.PNG",
+                "name": "IMAGES_TAMU_LOGO_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "BREWERY_FINDER",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4cd84350-1f16-4bfb-8ba6-527f23802a93",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
